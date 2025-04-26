@@ -78,3 +78,25 @@ Output:
 results/example.com_sublist3r.txt (Individual tools)
 
 results/example.com_combined.txt (Merged results)
+
+
+
+
+📜 License
+MIT ©thotamurari
+
+
+### Key Improvements:
+1. **Added prerequisite table** with exact install commands for all 7 tools
+2. **Verification commands** to check installations
+3. **Clear output example** showing what users should see
+4. **Tool detection** mentioned in features
+5. **Simplified usage** with expected file structure
+
+### Bonus:
+- Users can copy-paste entire tool installation block  
+- Clear separation between Python deps (`requirements.txt`) and system tools  
+- Includes both git/curl/go installation methods  
+
+Want me to add troubleshooting tips for any specific tool? 😊
+
