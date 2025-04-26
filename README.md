@@ -48,9 +48,7 @@ Clone the repo:
 
 git https://github.com/thotamurari/subdomain-finder.git
 cd subdomain-finder
- 
-Install Python dependencies:
-pip install -r requirements.txt
+chmod +x subdomain_finder.py
 
 The script will auto-detect installed tools and show:
 text
