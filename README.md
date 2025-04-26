@@ -80,6 +80,31 @@ results/example.com_combined.txt (Merged results)
 
 
 
+🫤IF you facing any error follow this 👇
+
+Solution 1: Use Python Virtual Environment (Recommended)
+Create a virtual environment:
+
+python -m venv subdomain-env
+source subdomain-env/bin/activate  # On Linux/Mac
+# OR
+subdomain-env\Scripts\activate    # On Windows
+Then run the tool:
+python subdomain_finder.py
+
+Solution 2: Alternative Installation Methods
+For systems with externally managed Python:
+
+Install knockpy using your package manager:
+
+# For Debian/Ubuntu
+sudo apt install knockpy
+
+# Or using pip with --user flag
+pip install --user knockpy
+Then add to PATH:
+export PATH=$PATH:~/.local/bin
+
 📜 License
 MIT ©thotamurari
 
