@@ -13,6 +13,7 @@
 
 ## ⚙️ **Installation**  
 ```bash
+
 git clone https://github.com/thotamurari/subdomain-finder.git
 cd subdomain-finder
 pip install -r requirements.txt
