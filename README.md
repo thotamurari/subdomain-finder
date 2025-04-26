@@ -20,7 +20,7 @@ A powerful Python tool to discover subdomains using multiple enumeration techniq
 ## ⚙️ **Installation**
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/subdomain-finder.git
+https://github.com/thotamurari/subdomain-finder.git
 cd subdomain-finder
 
 # Install dependencies
