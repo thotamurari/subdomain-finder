@@ -1,20 +1,27 @@
-# 🔍 Subdomain Finder Tool  
-*A Python tool to discover subdomains using multiple enumeration techniques.*  
+# 🔍 Advanced Subdomain Finder Tool
+
+A powerful Python tool to discover subdomains using multiple enumeration techniques.
+
+![Banner](https://img.shields.io/badge/Subdomain-Finder-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-orange)
 
 ---
 
-## 🚀 **Features**  
-- Auto-installs required tools (Sublist3r, Amass, Subfinder, etc.)  
-- Runs 7+ subdomain finders in parallel  
-- Saves results in `/results/` with deduplication  
-- Colorful CLI interface with progress tracking  
+## 🚀 **Features**
+- **Multi-tool integration** (Sublist3r, Amass, Subfinder, etc.)
+- **Automatic installation** of required tools
+- **Parallel execution** for faster results
+- **Colorful CLI output** for better readability
+- **Combined & deduplicated results**
 
 ---
 
-## ⚙️ **Installation**  
+## ⚙️ **Installation**
 ```bash
-
-git clone https://github.com/thotamurari/subdomain-finder.git
+# Clone the repo
+git clone https://github.com/<your-username>/subdomain-finder.git
 cd subdomain-finder
-pip install -r requirements.txt
 
+# Install dependencies
+pip install -r requirements.txt
