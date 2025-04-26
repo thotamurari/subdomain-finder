@@ -24,14 +24,5 @@ https://github.com/thotamurari/subdomain-finder.git
 cd subdomain-finder
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt bash
 
-🎯 Usage
-bash
-python3 subdomain_finder.py
-Menu Options
-Install Required Tools (Automatically sets up dependencies)
-
-Run Subdomain Enumeration (Enter a domain like example.com)
-
-Exit
