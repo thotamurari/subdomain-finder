@@ -42,3 +42,39 @@ assetfinder --help
 findomain --help
 knockpy --help
 massdns --help
+
+🛠 Installation
+Clone the repo:
+
+git clone https://github.com/your-username/subdomain-finder.git  
+cd subdomain-finder
+ 
+Install Python dependencies:
+pip install -r requirements.txt
+
+The script will auto-detect installed tools and show:
+text
+[+] sublist3r is already installed
+[+] amass is already installed
+[+] subfinder is already installed
+[+] assetfinder is already installed
+[+] findomain is already installed
+[+] knockpy is already installed
+[+] massdns is already installed
+[+] All tools installed successfully!
+🎯 Usage
+
+python3 subdomain_finder.py
+
+Menu Options:
+Install Missing Tools - Guides you through installation
+
+Find Subdomains - Enter a domain (e.g., example.com)
+
+Exit
+
+Output:
+
+results/example.com_sublist3r.txt (Individual tools)
+
+results/example.com_combined.txt (Merged results)
