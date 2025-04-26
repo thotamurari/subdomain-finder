@@ -15,4 +15,7 @@
 ```bash
 git clone https://github.com/thotamurari/subdomain-finder.git
 cd subdomain-finder  
-pip install -r requirements.txt  
+pip install -r requirements.txt
+
+🎯 Usage
+python3 subdomain_finder.py
