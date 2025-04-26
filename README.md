@@ -25,3 +25,13 @@ cd subdomain-finder
 
 # Install dependencies
 pip install -r requirements.txt
+
+🎯 Usage
+bash
+python3 subdomain_finder.py
+Menu Options
+Install Required Tools (Automatically sets up dependencies)
+
+Run Subdomain Enumeration (Enter a domain like example.com)
+
+Exit
