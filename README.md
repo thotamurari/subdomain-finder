@@ -46,7 +46,7 @@ massdns --help
 🛠 Installation
 Clone the repo:
 
-git clone https://github.com/your-username/subdomain-finder.git  
+git https://github.com/thotamurari/subdomain-finder.git
 cd subdomain-finder
  
 Install Python dependencies:
